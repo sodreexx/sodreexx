@@ -1,6 +1,6 @@
 <h1 align="center">Lucas Sodré</h1>
 <p align="center">
-  <b>Desenvolvedor Full Stack · Fundador da Sod Tech</b><br/>
+  <b>Desenvolvedor Full Stack · Fundador da Sodree dev.</b><br/>
   Sites, sistemas e automações de ponta a ponta — com suporte técnico e audiovisual na bagagem.<br/>
   📍 Rio de Janeiro, Brasil · 🎓 ADS (em fase de conclusão)
 </p>
